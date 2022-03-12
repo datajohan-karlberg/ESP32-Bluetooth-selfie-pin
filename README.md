@@ -24,7 +24,7 @@ It use ESP32 devkit V1 DOIT. If you use another ESP32 board, the pin number can 
 ### This is the libryray it uses:  
 #include <BleKeyboard.h>  
 https://github.com/T-vK/ESP32-BLE-Keyboard  
-
+(I recomend to use version "ESP32-BLE-Keyboard v0.2.3" for now, it worked for me)  
 
 #include <EasyButton.h>  
 https://github.com/evert-arias/EasyButton  
