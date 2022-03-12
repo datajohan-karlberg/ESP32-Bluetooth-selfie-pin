@@ -15,7 +15,7 @@ It will send "volyme up" button to the phone. That is the button for take pictur
     
     
 ### Here is schematic  
-It use ESP32 devkit V1 DOIT. If you use another ESP32 board, the pin number can be diffrent.  
+It use ESP32 devkit V1 DOIT. If you use another ESP32 board, the pin number can be diffrent. It can be powerd by USBcable or 5 Volt by pin gnd/vin  
   
   
   ![Namnlos](https://user-images.githubusercontent.com/33222123/158015885-59569a44-0a0e-4e0c-8520-064c3d8796e5.png)  
