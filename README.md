@@ -18,14 +18,14 @@ Here is schematic how to do.
   ![Namnlos](https://user-images.githubusercontent.com/33222123/158015885-59569a44-0a0e-4e0c-8520-064c3d8796e5.png)  
 
   
-  This is the libryray it uses:
-#include <BleKeyboard.h>
+  This is the libryray it uses:  
+#include <BleKeyboard.h>  
 https://github.com/T-vK/ESP32-BLE-Keyboard  
 
 
-#include <EasyButton.h>
+#include <EasyButton.h>  
 https://github.com/evert-arias/EasyButton  
 
-#include <melody_player.h>
-#include <melody_factory.h>
-https://github.com/fabianoriccardi/melody-player
+#include <melody_player.h>  
+#include <melody_factory.h>  
+https://github.com/fabianoriccardi/melody-player  
