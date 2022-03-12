@@ -1,6 +1,6 @@
 # ESP32-Bluetooth-selfie-pin
 Take pictures on distance with your smartphone.
-<BR/>
+<br/>
 You can buy this kind of selfie remote button in alibaba....
   
 ![Pict 1](https://user-images.githubusercontent.com/33222123/158015859-c37b979d-e636-4d80-a7db-e561c37598d7.jpg)
