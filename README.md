@@ -7,13 +7,14 @@ You can buy this kind of selfie remote button in Alibaba....
 ... but its more fun to make one by self.  
 
 ### How to use  
-You go to Bluetooth settings in phone and pair it. (it showup as "EPS-selfiepin") Then open camera app and take picture.
+You go to Bluetooth settings in phone and pair it. (it showup as "EPS-selfiepin") You will hear a melody when it connect / disconnect. 
+Open camera app and take picture.
 It will send "volyme up" button to the phone. That is the button for take pictures in android phones.
 
   
     
     
-### Here is schematic how to do.
+### Here is schematic
   
   
   ![Namnlos](https://user-images.githubusercontent.com/33222123/158015885-59569a44-0a0e-4e0c-8520-064c3d8796e5.png)  
