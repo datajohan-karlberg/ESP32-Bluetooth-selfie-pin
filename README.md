@@ -8,8 +8,8 @@ You can buy this kind of selfie remote button in Alibaba....
 
 ### How to use  
 You go to Bluetooth settings in phone and pair it. (it showup as "EPS-selfiepin") You will hear a melody when it connect / disconnect. 
-Open camera app and push button.
-It will send "volyme up" button to the phone. That is the button for take pictures in android phones. I have not test on iphone.  
+Open camera app and push button on ESP.
+ESP will send "volyme up" button to the phone app. That is the button for take pictures in android phones. I have not test on iphone.  
 
   
     
